@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-ibs",
+  "name": "easton-plugin-insurance",
   "version": "1.0.0",
   "description": "",
   "cordova": {
-    "id": "cordova-plugin-ibs",
+    "id": "easton-plugin-insurance",
     "platforms": [
       "ios",
       "android"
